@@ -34,6 +34,7 @@
 #endif
 
 /* cwp: solaris 10 hack */
+/*fix to allow compilation on windows */
 #if defined(_MSC_VER) || defined(__MINGW32__)
 #include <malloc.h>     // alloca
 #else
