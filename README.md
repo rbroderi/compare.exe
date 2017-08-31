@@ -1,7 +1,7 @@
 # compare.exe
-Simple exe that compares numbers or strings and returns equality or inequality
+Simple exe that compares numbers or strings and returns equality or inequality\\
 Also includes files for argp to allow compilation on windows with mingw
-
+```
 Usage: compare.exe [OPTION...] ARG1 ARG2
 Compares two numbers or strings
 
@@ -13,3 +13,4 @@ Compares two numbers or strings
   -?, --help                 Give this help list
   -V, --version              Print program version
       --usage                Give a short usage message
+```
